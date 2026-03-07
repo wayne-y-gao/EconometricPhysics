@@ -2,7 +2,9 @@
 
 *Intellectual explorations of an econometrician, trying to make sense of physics on a conceptual level.*
 
-*By [Wayne Gao](https://wayneygao.com), Assistant Professor of Economics, University of Pennsylvania*
+*By [Wayne Gao](https://wayneygao.com)*
+
+I'm thankful to Gemini, ChatGPT, and Claude for discussing these ideas and composing these essays.*
 
 ---
 
@@ -20,10 +22,6 @@ Reinterprets GR through the lens of structural econometrics: the Einstein field 
 
 ### Essay 3: An Econometric Reframing of the GR/QM Conflict
 Synthesizes Essays 1 and 2 to reframe the GR/QM conflict as a DGP specification problem. Covers wave-particle duality as basis choice, entanglement as a global sieve property, measurement as estimation, the speed of light as a mixing condition, the information paradox, the arrow of time, and a six-point specification sheet for what reconciliation requires. Bridges toward a dependence-first axiomatization of spacetime geometry.
-
-## Acknowledgments
-
-I'm thankful to Gemini, ChatGPT, and Claude for discussing these ideas and composing these essays.
 
 ## License
 
