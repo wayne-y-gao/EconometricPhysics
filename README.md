@@ -54,7 +54,7 @@ Returns to Essay 3's six-requirement specification sheet and audits each against
 
 [[Full essay]](Essay_8.md) | [[Substack]](https://open.substack.com/pub/waynegao/p/towards-reconciliation-gr-qm-and?r=7dgfsv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-### Essay 9: The Economic Agent as a Locally Rooted Information Structure
+### Essay 9: Fundamental Axiom of Economics: Existence of an Economic Agent
 The capstone essay. Returns to economics to argue that the economic agent is a locally rooted node with accumulated filtration, internal objective architecture, and a decision rule — an irreducible axiom not derivable from physics. Develops consequences for individuality, bounded rationality, agency, scarcity, markets as overlapping filtrations, prices as Riesz-representer-like summary statistics, and equilibrium as a fixed-point compatibility condition. Closes the circle: physics and economics as two instantiations of structured information dynamics on a causal graph.
 
 [[Full essay]](Essay_9.md) | [[Substack]](https://open.substack.com/pub/waynegao/p/axiom-of-economics-the-existence?r=7dgfsv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)

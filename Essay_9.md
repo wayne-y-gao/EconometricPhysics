@@ -1,4 +1,5 @@
-# The Economic Agent as a Locally Rooted Information Structure
+# Fundamental Axiom of Economics: Existence of an Economic Agent
+## As a Locally Rooted Information Structure in the Ambient Physical Universe
 
 *Wayne Gao*
 
@@ -26,7 +27,7 @@ This essay is the attempt to close that circle.
 
 ## 2. The series in one paragraph
 
-Essay 1 showed that quantum mechanics and semiparametric statistics share the Hilbert-space geometry of efficient inference. Essay 2 showed that general relativity and structural econometrics share the logic of identification, gauge freedom, and observational equivalence. Essay 3 posed the GR/QM conflict as a DGP specification problem. Essays 4–5 built the dependence-first axiomatization: a finite causal DAG with overlapping $\sigma$-fields, whose population limit recovers spacetime geometry. Essays 6–7 performed the complex lift: an internal $\mathbb{R}^2$ with rotation operator $J$ at each node, generating interference, entanglement, and Bell violation. Essay 8 audited the specification sheet, dissolved the three-way tension among GR, QM, and the second law, and showed that the apparent conflicts were category errors across layers of a single architecture.
+Essay 1 showed that quantum mechanics and semiparametric statistics share the Hilbert-space geometry of efficient inference. Essay 2 showed that general relativity and structural econometrics share the logic of identification, gauge freedom, and observational equivalence. Essay 3 posed the GR/QM conflict as a DGP specification problem. Essays 4–5 built the dependence-first axiomatization: a finite causal DAG with overlapping $\sigma$-fields, whose population limit recovers spacetime geometry. Essays 6–7 performed the complex lift: an internal $\mathbb{R}^2$ with rotation operator $J$ at each node, generating interference, entanglement, and Bell violation. Essay 8 audited the specification sheet and dissolved the three-way tension among GR, QM, and the second law — naming the resolution the Econometric Trinity: the characteristic function (QM), the density (GR), and the innovation process (2nd law) as three aspects of a single layered DGP — showing that the apparent conflicts were category errors across layers.
 
 Through all of this, the language was econometric. The question now: was it merely borrowed?
 
