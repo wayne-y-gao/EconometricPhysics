@@ -29,6 +29,16 @@ Synthesizes Essays 1 and 2 to reframe the GR/QM conflict as a DGP specification 
 
 [[Full essay]](Essay_3.md) | [[Substack]](https://open.substack.com/pub/waynegao/p/an-econometric-reframing-of-the-grqm?utm_campaign=post-expanded-share&utm_medium=web)
 
+### Essay 4: Spacetime as a Joint Filtration I — The Finite Causal-Dependence Network
+Proposes a finite-first axiomatization of spacetime: the primitive object is a finite causal DAG with local observables and partially overlapping σ-fields (the "spacetime filtration"). Develops conditional spacelike factorization (Axiom L1 = DAG global Markov property) and cone-supported weak dependence (Axiom L2). Introduces rooted past subgraphs and Jaccard overlap as a graph-theoretic distance. Derives consequences including Markov equivalence as gauge invariance (Verma–Pearl 1990), faithfulness as the Hauptvermutung (Bombelli et al. 1987), and the Markov blanket as a causal horizon.
+
+[[Full essay]](Essay_4.md) | [[Substack]](https://open.substack.com/pub/waynegao/p/spacetime-joint-filtration-i-the?r=7dgfsv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+### Essay 5: Spacetime as a Joint Filtration II — From Finite Graphs to Geometry
+Takes the finite DGP of Essay 4 to its population limit via Benjamini–Schramm convergence, recovering a Haag–Kastler-type continuum net of local σ-fields. Shows how the conformal class [g] emerges from the α-support (Malament 1977) and the metric scale Ω²g from bounded-Lipschitz decay rates. Introduces the Cauchy-temporal filtration and the arrow of time. Discusses the speculative link between innovation flux and the Einstein equation (Jacobson 1995), and identifies complex conjugation as the boundary of classical dependence theory.
+
+[[Full essay]](Essay_5.md) | [[Substack]](https://open.substack.com/pub/waynegao/p/spacetime-joint-filtration-ii-from?r=7dgfsv&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
 ## License
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
